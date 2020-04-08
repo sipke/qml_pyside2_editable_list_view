@@ -1,0 +1,6 @@
+Pyside2 and QML example
+=======================
+
+This is a port of stack overflow post `Editable qml/pyside2 listview`_
+
+.. _Editable qml/pyside2 listview: https://stackoverflow.com/questions/46814961/how-to-insert-edit-qabstractlistmodel-in-python-and-qml-updates-automatically
